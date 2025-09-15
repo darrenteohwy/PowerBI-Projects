@@ -6,8 +6,8 @@ import os
 # -------------------------------
 # Spotify API credentials
 # -------------------------------
-client_id = 'insert your client id here'
-client_secret = 'insert your client secret here'
+client_id = 'c14e32fefa4e4fd28287a319c67a6dcc'
+client_secret = 'c9091925810e42ddb1ee94a5993a035e'
 
 # -------------------------------
 # Functions
